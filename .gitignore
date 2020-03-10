@@ -1,0 +1,12 @@
+# local data
+data/
+
+# environment
+.env
+
+# python build stuff
+__pycache__/
+*pyc
+
+# jupyter stuff
+.ipynb_checkpoints/
