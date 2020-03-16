@@ -1,39 +1,66 @@
 [
     {
         "ghg_product_name": "Wheat & Rye (Bread)",
-        "fdc_id": 335240
+        "fdc_id": 335240,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Maize (Meal)",
-        "fdc_id": 168921
+        "fdc_id": 168921,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Barley (Beer)",
-        "fdc_id": 170283
+        "fdc_id": 170283,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Oatmeal",
-        "fdc_id": 340444
+        "fdc_id": 340444,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Rice",
-        "fdc_id": 340453
+        "fdc_id": 340453,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Potatoes",
-        "fdc_id": 341861
+        "fdc_id": 341861,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Cassava",
-        "fdc_id": 169985
+        "fdc_id": 169985,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Cane Sugar",
-        "fdc_id": 343935
+        "fdc_id": 343935,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Beet Sugar",
-        "fdc_id": 468380
+        "fdc_id": 468380,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Other Pulses",
@@ -41,136 +68,253 @@
     },
     {
         "ghg_product_name": "Peas",
-        "fdc_id": 170419
+        "fdc_id": 170419,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Nuts",
-        "fdc_id": 170567
+        "fdc_id": 170567,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Groundnuts",
-        "fdc_id": 172434
+        "fdc_id": 172434,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Soymilk",
-        "fdc_id": 336099
+        "fdc_id": 336099,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Tofu",
-        "fdc_id": 391898
+        "fdc_id": 391898,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Soybean Oil",
-        "fdc_id": 343880
+        "fdc_id": 343880,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Palm Oil",
-        "fdc_id": 171015
+        "fdc_id": 171015,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Sunflower Oil",
-        "fdc_id": 343882
+        "fdc_id": 343882,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Rapeseed Oil",
-        "fdc_id": 343875
+        "fdc_id": 343875,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Olive Oil",
-        "fdc_id": 343873
+        "fdc_id": 343873,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Tomatoes",
-        "fdc_id": 170457
+        "fdc_id": 170457,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Onions & Leeks",
-        "fdc_id": 170000
+        "fdc_id": 170000,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Root Vegetables",
-        "fdc_id": 170465
+        "fdc_id": 170465,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Brassicas",
-        "fdc_id": 170379
+        "fdc_id": 170379,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Other Vegetables",
-        "fdc_id": null
+        "fdc_id": null,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Citrus Fruit",
-        "fdc_id": 169918
+        "fdc_id": 169918,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Bananas",
-        "fdc_id": 173944
+        "fdc_id": 173944,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Apples",
-        "fdc_id": 171688
+        "fdc_id": 171688,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Berries & Grapes",
-        "fdc_id": 174683
+        "fdc_id": 174683,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Wine",
-        "fdc_id": 173185
+        "fdc_id": 173185,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Other Fruit",
-        "fdc_id": null
+        "fdc_id": null,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Coffee",
         "fdc_id": null,
-        "notes": "Brewed coffee FDC ID: 171890. Ignoring because coffee has so few macro nutrients."
+        "notes": "Brewed coffee FDC ID: 171890. Ignoring because coffee has so few macro nutrients.",
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Dark Chocolate",
-        "fdc_id": 169592
+        "fdc_id": 169592,
+        "tags": {
+            "category": "plants"
+        }
     },
     {
         "ghg_product_name": "Beef (beef herd)",
-        "fdc_id": 746759
+        "fdc_id": 746759,
+        "tags": {
+            "category": "meats"
+        }
     },
     {
         "ghg_product_name": "Beef (dairy herd)",
-        "fdc_id": 746759
+        "fdc_id": 746759,
+        "tags": {
+            "category": "meats"
+        }
+
     },
     {
         "ghg_product_name": "Lamb & Mutton",
-        "fdc_id": 174370
+        "fdc_id": 174370,
+        "tags": {
+            "category": "meats"
+        }
+
     },
     {
         "ghg_product_name": "Pig Meat",
-        "fdc_id": 167903
+        "fdc_id": 167903,
+        "tags": {
+            "category": "meats"
+        }
+
     },
     {
         "ghg_product_name": "Poultry Meat",
-        "fdc_id": 171116
+        "fdc_id": 171116,
+        "tags": {
+            "category": "meats"
+        }
+
     },
     {
         "ghg_product_name": "Milk",
-        "fdc_id": 171265
+        "fdc_id": 171265,
+        "notes": "Whole milk, 3.25% milkfat",
+        "tags": {
+            "category": "dairy"
+        }
+
     },
     {
         "ghg_product_name": "Cheese",
-        "fdc_id": 171251
+        "fdc_id": 171251,
+        "notes": "swiss cheese",
+        "tags": {
+            "category": "dairy"
+        }
     },
     {
         "ghg_product_name": "Eggs",
-        "fdc_id": 748967
+        "fdc_id": 748967,
+        "notes": "Grade A large eggs",
+        "tags": {
+            "category": "dairy"
+        }
+
+    },
+    {
+        "ghg_product_name": "Fish (wild)",
+        "fdc_id": 174186,
+        "notes": "To be compared with 'Fish (farmed)'",
+        "tags": {
+            "category": "meats"
+        }
+
     },
     {
         "ghg_product_name": "Fish (farmed)",
         "fdc_id": 175165,
-        "notes": "Catfish is among the most commonly farmed fished in the US."
+        "notes": "Catfish is among the most commonly farmed fished in the US",
+        "tags": {
+            "category": "meats"
+        }
     },
     {
         "ghg_product_name": "Shrimps (farmed)",
-        "fdc_id": 175179
+        "fdc_id": 175179,
+        "tags": {
+            "category": "meats"
+        }
     }
 ]
